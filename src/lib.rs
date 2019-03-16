@@ -1,4 +1,2 @@
+mod string_to_integer;
 mod three_sum;
-
-#[test]
-fn it_works() {}

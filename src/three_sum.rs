@@ -16,7 +16,7 @@ impl Solution {
         let mut result = Vec::new();
 
         for mut i in 0..nums.len() {
-            if i > 0 && nums[i] == nums[i-1] {
+            if i > 0 && nums[i] == nums[i - 1] {
                 continue;
             }
 
@@ -43,7 +43,7 @@ impl Solution {
                     temp.push(nums[right]);
                     result.push(temp);
 
-                    while right > 1 && nums[right -1 ] == nums[right] {
+                    while right > 1 && nums[right - 1] == nums[right] {
                         right = right - 1;
                     }
                     left = left + 1;
@@ -74,7 +74,7 @@ mod tests {
         // let given_arrays3 = vec![];
         // assert_eq!(Solution::three_sum(given_arrays3), vec![]);
 
-        let given_arrays4 = vec![-2,0,0,2,2];
-        assert_eq!(Solution::three_sum(given_arrays4), vec![vec!(-2,0,2)]);
+        let given_arrays4 = vec![-2, 0, 0, 2, 2];
+        assert_eq!(Solution::three_sum(given_arrays4), vec![vec!(-2, 0, 2)]);
     }
 }
