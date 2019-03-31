@@ -15,7 +15,7 @@ impl Solution {
         println!("sorted arrays: {:?}", nums);
         let mut result = Vec::new();
 
-        for mut i in 0..nums.len() {
+        for i in 0..nums.len() {
             if i > 0 && nums[i] == nums[i - 1] {
                 continue;
             }
@@ -50,7 +50,6 @@ impl Solution {
                     right = right - 1;
                 }
             }
-            i += 1;
         }
         result
     }
