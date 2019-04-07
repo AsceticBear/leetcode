@@ -1,5 +1,6 @@
 mod jewels_and_stones;
 mod jump_game;
+mod roman_to_integer;
 mod string_to_integer;
 mod three_sum;
 
