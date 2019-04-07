@@ -12,7 +12,6 @@ impl Solution {
     pub fn three_sum(nums: Vec<i32>) -> Vec<Vec<i32>> {
         let mut nums = nums;
         nums.sort();
-        println!("sorted arrays: {:?}", nums);
         let mut result = Vec::new();
 
         for i in 0..nums.len() {
@@ -23,13 +22,8 @@ impl Solution {
             let mut left = i + 1;
             let mut right = nums.len() - 1;
 
-            // println!("For loop ---- left= {:?}, right= {:?}", left, right);
             while left < right {
                 let sum = nums[i] + nums[left] + nums[right];
-                println!(
-                    "i = {:?}, left = {:?}, right = {:?}, sum = {:?}",
-                    i, left, right, sum
-                );
                 if sum > 0 {
                     right = right - 1;
                     continue;
