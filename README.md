@@ -22,6 +22,7 @@ Implement Queue using Stacks | Easy | Solved |
 Ugly Number | Easy | Solved |
 Ugly Number II | Medium | Solved |
 Jewels and Stones | Easy | Solved |
+Merge Sorted Array | Easy | Solved |
 
 ## Shell
 
