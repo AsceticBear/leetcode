@@ -2,8 +2,8 @@
 
 ## Rust
 
-Title | Difficulty | status |
------ | ---------- | ------ |
+Title | Difficulty | status | Topic |
+----- | ---------- | ------ | ----- |
 Two Sum | Easy | Solved |
 Add Two Numbers | Medium | Solved |
 Longest Substring Without Repeating Characters | Medium | Solved |
@@ -23,6 +23,7 @@ Ugly Number | Easy | Solved |
 Ugly Number II | Medium | Solved |
 Jewels and Stones | Easy | Solved |
 Merge Sorted Array | Easy | Solved |
+Regular Expression Matching | Hard | Solved | DP/Recursion|
 
 ## Shell
 

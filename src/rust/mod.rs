@@ -1,6 +1,7 @@
 mod jewels_and_stones;
 mod jump_game;
 mod merge_sorted_array;
+mod regular_expression_matching;
 mod reverse_integer;
 mod roman_to_integer;
 mod string_to_integer;
