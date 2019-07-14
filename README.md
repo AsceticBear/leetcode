@@ -32,3 +32,9 @@ Title | Difficulty | status |
 Word Frequency | Medium | Solved |
 Valid Phone Numbers | Easy | Solved |
 Tenth Line | Easy | Solved |
+
+## Python
+
+Title | Difficulty | status | Topic |
+----- | ---------- | ------ | ----- |
+ Longest Palindromic Substring | Medium | Attempted | DP | 
