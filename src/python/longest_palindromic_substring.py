@@ -6,7 +6,7 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         start = end = 0
         for i in range(len(s)):
-            print(f'==> i = {i}')
+            # print(f'==> i = {i}')
             l1 = self.expandAroundCenter(s, i, i)
             l2 = self.expandAroundCenter(s, i, i + 1)
             max_l =  l1 if l1 > l2 else l2
@@ -14,8 +14,8 @@ class Solution:
                 start = i - (max_l - 1) // 2
                 end = i + max_l // 2
         
-        print(f'start: {start} end: {end}')
-        print(f'longestPalindrome： {s[start:end + 1]}')
+        # print(f'start: {start} end: {end}')
+        # print(f'longestPalindrome： {s[start:end + 1]}')
         return s[start:end+1]
     
     def expandAroundCenter(self, s: str, l: int, r: int) -> int:
@@ -38,5 +38,10 @@ if __name__ == '__main__':
     
     # example 2
     input = "cbbd"
+    output = "bb"
+    assert s.longestPalindrome(input) == output
+
+    # example 3
+    input = "bb"
     output = "bb"
     assert s.longestPalindrome(input) == output

@@ -37,4 +37,5 @@ Tenth Line | Easy | Solved |
 
 Title | Difficulty | status | Topic |
 ----- | ---------- | ------ | ----- |
- Longest Palindromic Substring | Medium | Attempted | DP | 
+ Longest Palindromic Substring | Medium | Attempted | DP |
+ Palindrome Number | Easy | Solved |
