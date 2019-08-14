@@ -93,7 +93,6 @@ Two binary trees are considered the same if they are structurally identical and 
 
 
 * 孩子兄弟表示法
-
 '''
 
 from collections import deque
