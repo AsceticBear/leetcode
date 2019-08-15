@@ -35,8 +35,11 @@ Tenth Line | Easy | Solved |
 
 ## Python
 
-Title | Difficulty | status | Topic |
------ | ---------- | ------ | ----- |
- Longest Palindromic Substring | Medium | Attempted | DP |
- Palindrome Number | Easy | Solved |
- 
+Title | status | Topic |
+----- | ------ | ----- |
+ Longest Palindromic Substring | Docs | DP |
+ Palindrome Number | Solved |
+ Is palindrome | Docs |
+ Same Tree | Docs |
+ Sum of two integer | Docs |
+ Binary Watch | Docs |
