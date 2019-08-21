@@ -44,4 +44,5 @@ Title | status | Topic |
  Sum of two integer | Docs |
  Binary Watch | Docs |
  Degree of Array | Docs | Array |
+ Search In Binary Tree | Docs | Tree |
  
