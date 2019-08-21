@@ -45,4 +45,5 @@ Title | status | Topic |
  Binary Watch | Docs |
  Degree of Array | Docs | Array |
  Search In Binary Tree | Docs | Tree |
+ Binary Search | Docs | Array |
  
