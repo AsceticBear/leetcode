@@ -46,4 +46,4 @@ Title | status | Topic |
  Degree of Array | Docs | Array |
  Search In Binary Tree | Docs | Tree |
  Binary Search | Docs | Array |
- 
+ Design HashSet | Docs | Hash |
