@@ -47,3 +47,4 @@ Title | status | Topic |
  Search In Binary Tree | Docs | Tree |
  Binary Search | Docs | Array |
  Design HashSet | Docs | Hash |
+ Design HashMap | Docs | Hash |
