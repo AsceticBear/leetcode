@@ -14,7 +14,7 @@ Note that you cannot sell a stock before you buy one.
 
 1. Brute Force 暴力破解法
 
-2. 峰值法， 记录一个最小值 price 值和一个最大 profit 值。
+2. 峰值法（One pass）， 记录一个最小值 price 值和一个最大 profit 值。
 
 ```java
 public class Solution {
