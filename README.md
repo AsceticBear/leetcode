@@ -41,3 +41,4 @@ Climbing Stairs | Docs | Array | Py |
 Convert To Greater | Docs | Tree | Py |
 Average Of Levels In Binary Tree | Docs | Tree | Py |
 Find the Difference | Docs | HashTable | Py |
+Count Primes | Docs | HashTable | Py |
