@@ -1,55 +1,43 @@
 # LeetCode
 
-## Rust
-
-Title | Difficulty | status | Topic | Language |
------ | ---------- | ------ | ----- | -------- |
-Two Sum | Easy | Solved |
-Add Two Numbers | Medium | Solved |
-Longest Substring Without Repeating Characters | Medium | Solved |
-ZigZag Conversion | Medium | Solved |
-Reverse Integer | Easy | Solved |
-String to integer | Medium | Solved |
-Roman to Integer | Easy | Solved |
-3Sum | Medium | Solved |
-Jump Game | Medium | Solved |
-Valid Palindrome | Medium | Solved |
-Contains Duplicate | Easy | Solved |
-Contains Duplicate II | Easy | Solved |
-Basic Calculator | Hard | Solved |
-Implement Stack using Queues | Easy | Solved |
-Implement Queue using Stacks | Easy | Solved |
-Ugly Number | Easy | Solved |
-Ugly Number II | Medium | Solved |
-Jewels and Stones | Easy | Solved |
-Merge Sorted Array | Easy | Solved |
-Regular Expression Matching | Hard | Solved | DP/Recursion|
-
-## Shell
-
-Title | Difficulty | status |
------ | ---------- | ------ |
-Word Frequency | Medium | Solved |
-Valid Phone Numbers | Easy | Solved |
-Tenth Line | Easy | Solved |
-
-## Python
-
-Title | status | Topic |
------ | ------ | ----- |
- Longest Palindromic Substring | Docs | DP |
- Palindrome Number | Solved |
- Is palindrome | Docs |
- Same Tree | Docs |
- Sum of two integer | Docs |
- Binary Watch | Docs |
- Degree of Array | Docs | Array |
- Search In Binary Tree | Docs | Tree |
- Binary Search | Docs | Array |
- Design HashSet | Docs | Hash |
- Design HashMap | Docs | Hash |
- Buy And Sell Stock I | Docs | Array |
- Climbing Stairs | Docs | Array |
- Convert To Greater | Docs | Tree |
- Average Of Levels In Binary Tree | Docs | Tree |
+Title | status | Topic | Language |
+----- | ------ | ----- | -------- |
+Two Sum | Solved | Array | Rust |
+Add Two Numbers | Solved | Array | Rust |
+Longest Substring Without Repeating Characters | Solved | Array | Rust |
+ZigZag Conversion | Solved | | Rust |
+Reverse Integer | Solved | | Rust |
+String to integer | Solved | | Rust |
+Roman to Integer | Solved | | Rust |
+3Sum | Solved | | Rust |
+Jump Game | Solved | | Rust |
+Valid Palindrome | Solved | | Rust |
+Contains Duplicate | Solved | | Rust |
+Contains Duplicate II | Solved | | Rust |
+Basic Calculator | Solved | | Rust |
+Implement Stack using Queues | Solved | | Rust |
+Implement Queue using Stacks | Solved | | Rust |
+Ugly Number | Solved | | Rust |
+Ugly Number II | Solved | | Rust |
+Jewels and Stones | Solved | | Rust |
+Merge Sorted Array | Solved | | Rust |
+Regular Expression Matching | Solved | DP/Recursion| Rust |
+Word Frequency | Solved | | Shell |
+Valid Phone Numbers | Solved | | Shell |
+Tenth Line | Solved | | Shell |
+Longest Palindromic Substring | Docs | DP | Py|
+Palindrome Number | Solved | | Py |
+Is palindrome | Docs | | Py |
+Same Tree | Docs | | Py |
+Sum of two integer | Docs | | Py |
+Binary Watch | Docs | | Py |
+Degree of Array | Docs | Array | Py |
+Search In Binary Tree | Docs | Tree | Py |
+Binary Search | Docs | Array | Py |
+Design HashSet | Docs | Hash | Py |
+Design HashMap | Docs | Hash | Py |
+Buy And Sell Stock I | Docs | Array | Py |
+Climbing Stairs | Docs | Array | Py |
+Convert To Greater | Docs | Tree | Py |
+Average Of Levels In Binary Tree | Docs | Tree | Py |
  
