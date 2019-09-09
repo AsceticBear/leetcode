@@ -2,11 +2,7 @@
 Given a non-negative integer n which represents the number of LEDs that are currently on, return all possible times the watch could represent.
 '''
 
-# Add code here
-
 '''
-分析：
-
 from collections import defaultdict
 
 class Solution:

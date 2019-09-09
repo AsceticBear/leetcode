@@ -2,10 +2,7 @@
 Design a HashMap without using any built-in hash table libraries.
 '''
 
-# Add code here
-
 '''
-分析:
 
 方法1： 因为题目比较简单，用一个就数组解决。
 

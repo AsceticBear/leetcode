@@ -4,12 +4,7 @@ Given two binary trees, write a function to check if they are the same or not.
 Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
 '''
 
-
-# Add code here
-
 '''
-分析：
-
 1. 第一种方式
 
 递归， 从根节点开始，查看 p 和 q 节点是否为 None，如果为空，查看 p 是否等于 q，如果相同，分别递归调用左子树和右子树。

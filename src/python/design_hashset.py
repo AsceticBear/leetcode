@@ -2,10 +2,7 @@
 Design a HashSet without using any built-in hash table libraries.
 '''
 
-# Add code here
-
 '''
-分析：
 
 构造哈希表的方式：
 

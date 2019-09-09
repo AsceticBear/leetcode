@@ -10,12 +10,8 @@ Input:
 Output: [3, 14.5, 11]
 '''
 
-# Add code here
 
 '''
-
-分析：
-
 方法一： Depth First Searching
 
 构造一个 sum 数组保存，每一层节点的 value 和，还需要维持一个 count 列表，记录每一层的节点数量。

@@ -5,10 +5,7 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 '''
 
-# Add code here
-
 '''
-分析：
 
 1. 暴力破解
 

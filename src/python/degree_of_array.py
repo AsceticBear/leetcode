@@ -4,10 +4,7 @@ Given a non-empty array of non-negative integers nums, the degree of this array 
 Your task is to find the smallest possible length of a (contiguous) subarray of nums, that has the same degree as nums.
 '''
 
-# Add code here
-
 '''
-分析：
 
 class Solution(object):
     def findShortestSubArray(self, nums):

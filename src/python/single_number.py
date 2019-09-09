@@ -4,6 +4,8 @@ Given a non-empty array of integers, every element appears twice except for one.
 https://leetcode.com/problems/single-number/
 '''
 
+'''
+
 方法一： 用无重复元素的列表
 
 class Solution(object):
@@ -58,3 +60,5 @@ class Solution(object):
         for i in nums:
             a ^= i
         return a
+
+'''

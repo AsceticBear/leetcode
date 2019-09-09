@@ -18,11 +18,7 @@ You should return this subtree:
     1   3
 '''
 
-# Add code here
-
 '''
-分析：
-
 1. while 循环遍历
 
 class Solution:

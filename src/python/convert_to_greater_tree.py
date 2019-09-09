@@ -12,11 +12,7 @@ Output: The root of a Greater Tree like this:
           20     13
 '''
 
-# Add code here
-
 '''
-分析：
-
 I.
 
 l = ['13', '5', '2']
@@ -45,11 +41,3 @@ def convertBST(self, root: TreeNode) -> TreeNode:
             b.val += a.val
         return root
 '''
-[13, 5, 2]
-    [5, 2]      
-
-[13, 5, 2]
-    [18, 2]
-
-a=13, b=5
-a=18, b=2

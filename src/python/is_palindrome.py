@@ -23,8 +23,6 @@ if __name__ == "__main__":
     unittest.main()
 
 '''
-分析：
-
 1. 第一种方式
 
 将 int 类型的入参 a 转换为字符串 sa, 再对 sa 做字符串反转操作生成 reverse_sa, 比较 sa == reverse_sa.

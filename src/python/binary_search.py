@@ -3,17 +3,13 @@ Binary Search
 
 Given a sorted (in ascending order) integer array nums of n elements and a target value, 
 write a function to search target in nums. If target exists, then return its index, otherwise return -1.
-
 '''
 
-#  Add code here
-
 '''
-分析：
 
 1. 最简单的 list 索引
 
-```py
+```
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         try:
@@ -30,7 +26,7 @@ class Solution:
 * 如果大于 target， 右边的标记左移一位。
 * 如果小于 target,  左边的标记右移一位。
 
-```py
+```
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         left, right = 0, len(nums) - 1
@@ -45,3 +41,5 @@ class Solution:
                     left = pivot + 1
         return -1
 ```
+
+'''
