@@ -2,8 +2,8 @@
 
 ## Rust
 
-Title | Difficulty | status | Topic |
------ | ---------- | ------ | ----- |
+Title | Difficulty | status | Topic | Language |
+----- | ---------- | ------ | ----- | -------- |
 Two Sum | Easy | Solved |
 Add Two Numbers | Medium | Solved |
 Longest Substring Without Repeating Characters | Medium | Solved |
@@ -51,4 +51,5 @@ Title | status | Topic |
  Buy And Sell Stock I | Docs | Array |
  Climbing Stairs | Docs | Array |
  Convert To Greater | Docs | Tree |
+ Average Of Levels In Binary Tree | Docs | Tree |
  
