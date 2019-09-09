@@ -4,7 +4,9 @@ Each number means one candy of the corresponding kind. You need to distribute th
 and sister. Return the maximum number of kinds of candies the sister could gain.
 '''
 
-```java
+'''
+
+```
 public class Solution {
     public int distributeCandies(int[] candies) {
         HashSet < Integer > set = new HashSet < > ();
@@ -14,4 +16,6 @@ public class Solution {
         return Math.min(set.size(), candies.length / 2);
     }
 }
-````
+```
+
+'''
