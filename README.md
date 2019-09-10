@@ -45,4 +45,5 @@ Count Primes | Docs | HashTable | Py |
 Single Number | Docs | HashTable | Py |
 Distribute Candies | Docs | HashTable | Py |
 First Unique Character in a String | Docs | HashTable | Py |
-Delete Node in a Linked List | Docs | Linked List | java |
+Delete Node in a Linked List | Docs | Linked List | Java |
+Intersection of Two Linked Lists | Docs | Linked List | Py |
