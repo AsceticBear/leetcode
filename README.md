@@ -51,3 +51,5 @@ Linked List Cycle | Docs | Linked List | Java |
 Merge Two Sorted Lists | Docs | Linked List | Py |
 Middle of the Linked List | Docs | Linked List | Py |
 Day of the Year | Docs | Math | Py |
+Sqrt | Docs | Math | Py |
+Sum of Square Numbers | Docs | Math | Py |
