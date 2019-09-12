@@ -53,3 +53,5 @@ Middle of the Linked List | Docs | Linked List | Py |
 Day of the Year | Docs | Math | Py |
 Sqrt | Docs | Math | Py |
 Sum of Square Numbers | Docs | Math | Py |
+Intersection of Two Arrays | Docs | Two Points | Py |
+Intersection of Two Arrays II | Docs | Two Points | Py |
