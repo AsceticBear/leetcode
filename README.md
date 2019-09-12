@@ -50,3 +50,4 @@ Intersection of Two Linked Lists | Docs | Linked List | Py |
 Linked List Cycle | Docs | Linked List | Java |
 Merge Two Sorted Lists | Docs | Linked List | Py |
 Middle of the Linked List | Docs | Linked List | Py |
+Day of the Year | Docs | Math | Py |
