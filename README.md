@@ -55,3 +55,5 @@ Sqrt | Docs | Math | Py |
 Sum of Square Numbers | Docs | Math | Py |
 Intersection of Two Arrays | Docs | Two Points | Py |
 Intersection of Two Arrays II | Docs | Two Points | Py |
+Add Binary | Docs | Math | Py |
+
