@@ -57,3 +57,4 @@ Intersection of Two Arrays | Docs | Two Points | Py |
 Intersection of Two Arrays II | Docs | Two Points | Py |
 Add Binary | Docs | Math | Py |
 Add Digits | Docs | Math | Py |
+Arranging Coins | Docs | Math | Py |
