@@ -60,3 +60,4 @@ Add Digits | Docs | Math | Py |
 Arranging Coins | Docs | Math | Py |
 Majority Element | Docs | Sorting | Py |
 Maximum Subarray | Docs | DP | Py |
+Largest Perimeter Triangle | Docs | Sorting | Py |
