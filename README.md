@@ -64,4 +64,6 @@ Largest Perimeter Triangle | Docs | Sorting | Py |
 Valid Anagram | Docs | Sorting | Java |
 Backspace String Compare | Docs | Stack | Py |
 Baseball Game | Docs | Stack | Py |
- Min Stack | Docs | Stack | Py |
+Min Stack | Docs | Stack | Py |
+Nim Game | Docs | Brainteaser | Java |
+
