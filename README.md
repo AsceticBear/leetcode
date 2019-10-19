@@ -66,4 +66,5 @@ Backspace String Compare | Docs | Stack | Py |
 Baseball Game | Docs | Stack | Py |
 Min Stack | Docs | Stack | Py |
 Nim Game | Docs | Brainteaser | Java |
-
+The Last word length | Solved | String | Py |
+Compare Disk Size | Solved | Sorting | Py |
