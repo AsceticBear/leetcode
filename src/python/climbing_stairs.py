@@ -68,4 +68,5 @@ public class Solution {
 }
 ```
 
+和 fibonacci 数列超级类似。
 '''
