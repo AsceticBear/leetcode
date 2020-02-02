@@ -70,3 +70,4 @@ The Last word length | Solved | String | Py |
 Compare Disk Size | Solved | Sorting | Py |
 Trim a Binary Search Tree | Solved | Tree | Py |
 Verifying an Alien Dictionary | Solved | Hash Table | Py |
+Employee Importance | Solved | Hash Table | Py
