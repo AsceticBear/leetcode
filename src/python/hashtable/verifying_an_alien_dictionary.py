@@ -10,6 +10,9 @@ Output: true
 Explanation: As 'h' comes before 'l' in this language, then the sequence is sorted.
 '''
 
+1. 建立 hashtable
+2. 比较相邻的 word，比对方式使用第一步建立的 hashtable
+
 '''
 class Solution(object):
     def isAlienSorted(self, words, order):
