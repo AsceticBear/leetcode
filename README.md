@@ -72,3 +72,5 @@ Trim a Binary Search Tree | Solved | Tree | Py |
 Verifying an Alien Dictionary | Solved | Hash Table | Py |
 Employee Importance | Solved | Hash Table | Py |
 Unique Number of Occurrences | Solved | Hash Table | Py |
+Implement strStr() | Solved | Two Pointers | Py |
+Remove Duplicates from Sorted List | Solved | Linked List | Py |
