@@ -1,10 +1,11 @@
 '''
 Design a HashMap without using any built-in hash table libraries.
+
+https://leetcode.com/problems/design-hashmap/
 '''
 
 '''
-
-方法1： 因为题目比较简单，用一个就数组解决。
+方法1： 因为题目比较简单，用一个就数组解决, map 的 key, value 都得是数字
 
 class MyHashMap(object):
     
@@ -17,7 +18,6 @@ class MyHashMap(object):
     def get(self, key):
         return self.table[key]
         
-
     def remove(self, key):
         self.table[key] = -1
 

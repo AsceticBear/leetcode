@@ -29,7 +29,6 @@ def fourSum(nums: List[int], target: int) -> List[List[int]]:
 
     if nums[l] + nums[r] < target:
         
-
     return [1]
 
 def test_fourSum():

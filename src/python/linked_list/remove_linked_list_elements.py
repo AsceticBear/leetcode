@@ -1,12 +1,16 @@
 '''
 Remove all elements from a linked list of integers that have value val.
 
+Example:
+
+Input:  1->2->6->3->4->5->6, val = 6
+Output: 1->2->3->4->5
+
 https://leetcode.com/problems/remove-linked-list-elements/
 '''
 
 '''
-
-I. Recursive
+# Recursive
 
 public ListNode removeElements(ListNode head, int val) {
     if(head == null) return null;
@@ -15,8 +19,4 @@ public ListNode removeElements(ListNode head, int val) {
     head.next = next;
     return head;
 }
-
-II. Iteration
-
-
 '''
