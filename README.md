@@ -74,3 +74,4 @@ Employee Importance | Solved | Hash Table | Py |
 Unique Number of Occurrences | Solved | Hash Table | Py |
 Implement strStr() | Solved | Two Pointers | Py |
 Remove Duplicates from Sorted List | Solved | Linked List | Py |
+Reverse Linked List | Solved | Linked List | Py |
