@@ -75,3 +75,5 @@ Unique Number of Occurrences | Solved | Hash Table | Py |
 Implement strStr() | Solved | Two Pointers | Py |
 Remove Duplicates from Sorted List | Solved | Linked List | Py |
 Reverse Linked List | Solved | Linked List | Py |
+X of a Kind in a Deck of Cards | Solved | Array | Py |
+ Word Search | Solved | Array | Py |
